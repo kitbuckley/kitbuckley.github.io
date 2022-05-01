@@ -1,0 +1,65 @@
+/* these are my cool california styles for my cool web page  */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Average&family=Coustard:wght@900&display=swap');
+
+
+body {
+  background-color: cornsilk;
+}
+
+
+
+.bottlejack_header{
+	
+	
+}
+
+.bottlejack_h1{
+	font-size: 64px;
+	font-family: 'Coustard', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.bottlejack_h6{
+	font-size: 24px;
+	font-family: 'Windsor', 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+	text-align: center;
+	margin-top: 0px;
+}
+
+* {
+		color: navy;
+}		
+
+.subhead{
+	font-size: 40px;
+	font-family: 'Coustard', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.subsubhead{
+	font-size: 30px;
+	font-family: 'Coustard', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.project{
+		font-family: 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+		/*margin-bottom: 0px;*/
+		text-align: center;
+}
+
+.project_title{
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+.project_description{
+	margin-top: 2px;
+}
