@@ -1,0 +1,92 @@
+/* these are my cool california styles for my cool web page dot horse  */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Average&family=Stoke&family=Vollkorn:ital,wght@1,600&display=swap');
+
+
+body {
+  background-color: ghostwhite;
+}
+
+
+
+.web_page_header{
+	
+	
+}
+
+.web_page_h1{
+	font-size: 64px;
+	font-family: 'Stoke', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.web_page_h6{
+	font-size: 24px;
+	font-family: 'Vollkorn', 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+	text-align: center;
+	margin-top: 0px;
+}
+
+* {
+		color: black;
+}		
+
+.web_page_intro{
+	font-size: 20px;
+	line-height: 6px;
+	font-family: 'Vollkorn', 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+	text-align: center;
+
+}
+
+.subhead{
+	font-size: 40px;
+	font-family: 'Vollkorn', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.subsubhead{
+	font-size: 30px;
+	font-family: 'Vollkorn', 'Adobe Caslon', 'Big Caslon', fantasy;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+
+.project{
+		font-family: 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+		/*margin-bottom: 0px;*/
+		text-align: center;
+		margin-left: 5%;
+		margin-right: 5%; 
+}
+
+.project_title{
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+.project_description{
+	margin-top: 2px;
+}
+
+.project_pic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.footy{
+		font-family: 'Adobe Caslon', 'Big Caslon', 'Average', serif;
+		/*margin-bottom: 0px;*/
+		text-align: center;
+		margin-left: 5%;
+		margin-right: 5%; 
+}
