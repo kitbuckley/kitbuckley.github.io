@@ -79,9 +79,9 @@ body {
 		margin-right: 5%; 
 }
 
-.project_title{
+.threat{
 	/*used on the index page, not in the individual project pages*/
-	font-size: 20px;
+	font-size: 5px;
 	text-align: center;
 	margin-bottom: 0px;
 }
@@ -120,9 +120,9 @@ body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 50%;
-	margin-bottom: 30px;
-	margin-top: 30px;
+	max-width: 80%;
+	margin-bottom: 5px;
+	margin-top: 10px;
 }
 
 .footy{
